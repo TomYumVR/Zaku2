@@ -1,5 +1,8 @@
 # **Zaku²** Case for DIY SlimeVR
 
+<img src="Assets/zakulogo.png" width="300">
+
+
 ## The Zaku² case is one of the smallest cases desgined for DIY SlimeVR
 
 <img src="Assets/Main.png" height="250" style="display:block;margin:15px auto">
